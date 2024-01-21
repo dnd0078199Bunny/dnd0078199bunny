@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi, I'm dndbunny0078199
 
-<!--
-**dnd0078199Bunny/dnd0078199bunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me:**
+- I'm a messenger between the living and the spiritual world, but on my off days, I'm coding!
+- I believe in the quotation that a code is like humor.
+- I'm currently learning python as a beginner to further enhance my coding skills
 
-Here are some ideas to get you started:
+**Tech Stack:** 
+- Languages: Python
+- Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects:**
+- I'm currently haven't started but if you have any suggestions drop me a message
+
+**Let's Connect:**
+- Just drop a message in Github
+- Fun fact: I do not like sweets
+
+Let's embark on this coding journey together! 
